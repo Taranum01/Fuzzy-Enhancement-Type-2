@@ -1,6 +1,6 @@
 # Fuzzy Image Enhancement Type 2
 
-This project implements a fuzzy logic-based image denoising and enhancement method (Fuzzy Enhancement Type 2), specifically designed for handling noisy images, such as those found in underwater infrared datasets. The method uses a fuzzy inference system to reduce salt-and-pepper noise and improve image quality.
+This project implements a fuzzy logic-based image denoising and enhancement method, specifically designed for handling noisy images, such as those found in underwater infrared datasets. The method uses a fuzzy inference system to reduce salt-and-pepper noise and improve image quality.
 
 ## Features
 
