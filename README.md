@@ -1,6 +1,6 @@
-# Fuzzy Image, GIF, and Video Enhancement using Type-2 Fuzzy Logic
+# Fuzzy Image Enhancement using Type-2 Fuzzy Logic
 
-This project implements a **Type-2 fuzzy logic-based image denoising and enhancement method**, specifically designed for handling noisy visual content—including **images**, **GIFs**, and **videos**. The method is particularly effective for salt-and-pepper noise and is tested on challenging datasets such as **underwater infrared imagery**.
+This project implements a **Type-2 fuzzy logic-based image denoising and enhancement method**, specifically designed for handling noisy **images**. The method is particularly effective for salt-and-pepper noise and is tested on challenging datasets such as **underwater infrared imagery**.
 
 ## Features
 
@@ -29,14 +29,6 @@ Ensure you have the following dependencies installed:
 
 - MATLAB (or compatible: **GNU Octave**)
 - Image Processing Toolbox (`imread`, `imshow`, etc.)
-
-## Input Options
-
-You can select your input type during runtime:
-
-- **Image**: Standard image files (`.jpg`, `.png`, etc.)
-- **GIF**: Animated `.gif` files
-- **Video**: `.mp4`, `.avi`, etc.
 
 ## Usage
 
